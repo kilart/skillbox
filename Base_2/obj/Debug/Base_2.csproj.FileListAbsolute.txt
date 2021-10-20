@@ -1,0 +1,7 @@
+C:\Users\Зубков Сергей\Desktop\SkillBox\Base_2\Base_2\bin\Debug\Base_2.exe.config
+C:\Users\Зубков Сергей\Desktop\SkillBox\Base_2\Base_2\bin\Debug\Base_2.exe
+C:\Users\Зубков Сергей\Desktop\SkillBox\Base_2\Base_2\bin\Debug\Base_2.pdb
+C:\Users\Зубков Сергей\Desktop\SkillBox\Base_2\Base_2\obj\Debug\Base_2.csproj.AssemblyReference.cache
+C:\Users\Зубков Сергей\Desktop\SkillBox\Base_2\Base_2\obj\Debug\Base_2.csproj.CoreCompileInputs.cache
+C:\Users\Зубков Сергей\Desktop\SkillBox\Base_2\Base_2\obj\Debug\Base_2.exe
+C:\Users\Зубков Сергей\Desktop\SkillBox\Base_2\Base_2\obj\Debug\Base_2.pdb
